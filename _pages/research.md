@@ -28,12 +28,11 @@ A new cross-season scaleless monocular depth prediction dataset is derived from 
 A novel multi-task architecture is proposed to fuse the geometric and semantic information into the multi-scale latent embedding representation for long-term visual localization. Also, domain adaptation is adopted from synthetic to real-world datasets to use the high-quality virtual ground truths without any human effort. The proposed method outperforms state-of-the-art baselines for retrieval-based localization under the challenging environment on the Extended CMU-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).
 
 * **Domain-invariant Activation Map Learning for Long-term Localization** <br> [[paper 1](https://ieeexplore.ieee.org/document/8968047)] [[code 1](https://github.com/HanjiangHu/DIFL-FCL)] [[paper 2](https://arxiv.org/pdf/2009.07719.pdf)] [[code 2](https://github.com/HanjiangHu/DISAM)] <br>
-<img src='../images/fig1.png' style="float:left" width=400 alt="Text alternative when image is not available">
-<img src='../images/SAM.png' style="float:left" width=450 alt="Text alternative when image is not available"> <br>
+<!-- <img src='../images/fig1.png' style="float:left" width=300 alt="Text alternative when image is not available"> -->
+<img src='../images/SAM.png' style="float:left" width=350 alt="Text alternative when image is not available"><br>
 A self-supervised representation learning is proposed to extract domain-invariant features through multi-domain image translation by introducing feature consistency loss. Besides, a novel gradient-weighted similarity activation mapping loss (Grad-SAM) is incorporated for high-precision localization. In medium or high precision localization, our performance outperforms state-of-the-art image-based localization
 baselines under the challenging environments with illumination variance, vegetation
 and night-time images on CMU-Seasons and RobotCar-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).
-
 
 
 <!-- ## Multi-robot control
