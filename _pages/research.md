@@ -29,7 +29,7 @@ A novel multi-task architecture is proposed to fuse the geometric and semantic i
 
 * **Domain-invariant Activation Map Learning for Long-term Localization** <br> [[paper 1](https://ieeexplore.ieee.org/document/8968047)] [[code 1](https://github.com/HanjiangHu/DIFL-FCL)] [[paper 2](https://arxiv.org/pdf/2009.07719.pdf)] [[code 2](https://github.com/HanjiangHu/DISAM)] <br>
 <figure>
-<img src='../images/fig1.png' style="float:left" width="30%" alt="Text alternative when image is not available"><img src='../images/SAM.png' style="float:left" width="40%" alt="Text alternative when image is not available">
+<img src='../images/fig1.png' style="float:left" width=300 alt="Text alternative when image is not available"><img src='../images/SAM.png' style="float:left" width=400 alt="Text alternative when image is not available">
 </figure><br>
 A self-supervised representation learning is proposed to extract domain-invariant features through multi-domain image translation by introducing feature consistency loss. Besides, a novel gradient-weighted similarity activation mapping loss (Grad-SAM) is incorporated for high-precision localization. In medium or high precision localization, our performance outperforms state-of-the-art image-based localization
 baselines under the challenging environments with illumination variance, vegetation
