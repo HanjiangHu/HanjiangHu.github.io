@@ -16,10 +16,11 @@ My research goal is to develop intelligent and robust algorithms that can be use
 
 ## Visual Perception and Localization
 
-* **Generative Vehicle Segmentation for Aerial-view Images** <br>[[available soon]()] <br> 
-To improve the performance of vehicle detection and segmentation in aerial-view images, we propose a novel algorithm based on the generative model. Inspired by multi-modal image translation, the vehicle patches could be regarded as the combination of vehicle content and multi-modal surrounding style distribution. Consequently, the process of vehicle segmentation is a content extraction and multi-to-single-modal image translation, which is suitable for domain adaptation. Based on this work, a GUI tool has been developed to help to obtain the ground truth for the [NeurlPS 2020 Challenge](http://challenge.interaction-dataset.com/prediction-challenge/intro).
+* **Generative Vehicle Segmentation for Aerial-view Images** <br>
+<img src='../images/UCB_video_final_GIF.gif' style="float:middle" width=500 alt="Text alternative when image is not available"> <br> 
+To improve the performance of vehicle detection and segmentation in aerial-view images, we propose a novel algorithm based on the generative model. Inspired by multi-modal image translation, the vehicle patches could be regarded as the combination of vehicle content and multi-modal surrounding style distribution. Consequently, the process of vehicle segmentation is a content extraction and multi-to-single-modal image translation, which is suitable for domain adaptation. Based on this work, a GUI tool has been developed to help to obtain the ground truth for the [INTERPRET NeurlPS 2020 Challenge](http://challenge.interaction-dataset.com/prediction-challenge/intro) by MSC Lab at UC Berkeley.
 
-* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[available soon]()]  <br >
+* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/pdf/2011.04408.pdf)] [[video](https://youtu.be/I2d4_wE4axs)]  <br >
 <!-- <img src='../images/img2.png' align="center" width=666 alt="Text alternative when image is not available"> -->
 A new cross-season scaleless monocular depth prediction dataset is derived from CMU Visual Localization dataset through structure from motion. And then the several metrics are formulated to measure the performance on this dataset. Besides, we have benchmarked almost all the open-source state-of-the-art algorithms on KITTI dataset using the new dataset to find robust methods against the challenging environments.The dataset and benchmark is on [SeasonDepth](https://github.com/SeasonDepth/SeasonDepth).
 
@@ -27,8 +28,8 @@ A new cross-season scaleless monocular depth prediction dataset is derived from 
 <img src='../images/img2.png' style="float:center" width=600 alt="Text alternative when image is not available"> <br>
 A novel multi-task architecture is proposed to fuse the geometric and semantic information into the multi-scale latent embedding representation for long-term visual localization. Also, domain adaptation is adopted from synthetic to real-world datasets to use the high-quality virtual ground truths without any human effort. The proposed method outperforms state-of-the-art baselines for retrieval-based localization under the challenging environment on the Extended CMU-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).
 
-* **Domain-invariant Activation Map Learning for Long-term Localization** <br> [[paper 1](https://ieeexplore.ieee.org/document/8968047)] [[code 1](https://github.com/HanjiangHu/DIFL-FCL)] [[paper 2](https://arxiv.org/pdf/2009.07719.pdf)] [[code 2](https://github.com/HanjiangHu/DISAM)] <br>
-<img src='../images/fig1.png'  width="350px" alt="Text alternative when image is not available"><img src='../images/SAM.png'  width="400px" alt="Text alternative when image is not available"> <br>
+* **Domain-invariant Activation Map Learning for Long-term Localization** <br> [[Conference Paper](https://ieeexplore.ieee.org/document/8968047)] [[code](https://github.com/HanjiangHu/DIFL-FCL)], [[Journal Paper](https://arxiv.org/pdf/2009.07719.pdf)] [[code](https://github.com/HanjiangHu/DISAM)] <br>
+<img src='../images/overview.png'  width="400px" alt="Text alternative when image is not available"><img src='../images/SAM.png'  width="400px" alt="Text alternative when image is not available"> <br>
 A self-supervised representation learning is proposed to extract domain-invariant features through multi-domain image translation by introducing feature consistency loss. Besides, a novel gradient-weighted similarity activation mapping loss (Grad-SAM) is incorporated for high-precision localization. In medium or high precision localization, our performance outperforms state-of-the-art image-based localization
 baselines under the challenging environments with illumination variance, vegetation
 and night-time images on CMU-Seasons and RobotCar-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).

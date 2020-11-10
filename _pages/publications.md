@@ -15,16 +15,16 @@ _2020 (in submission and under review)_, [paper](https://arxiv.org/pdf/2009.0771
 
 * Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements <br>
 Jianing Zhao, **Hanjiang Hu(co-first)**, Keyi Zhu, Xiao Yu and Hesheng Wang <br> 
-_in submission to IEEE RAL with ICRA 2021 and under review_
+_in submission to IEEE RAL with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
 
 ## Conference Paper
 * SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments <br>
 **Hanjiang Hu**, Baoquan Yang, Weiang Shi, Zhijian Qiao and Hesheng Wang <br> 
-_in submission to ICRA 2021 and under review_, [dataset](https://github.com/SeasonDepth/SeasonDepth)
+_in submission to ICRA 2021 and under review_, [paper](https://arxiv.org/pdf/2011.04408.pdf), [project](https://github.com/SeasonDepth/SeasonDepth)
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
-_in submission to ICRA 2021 and under review_
+_in submission to ICRA 2021 and under review_, [video](https://youtu.be/cZ5Iwcn8TQ4)
 
 * A Synchronization Approach for Achieving Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing <br>
 Zhe Liu, Huanshu Wei, **Hanjiang Hu**, Chuanzhe Suo, Hesheng Wang, Haoang Li and Yun-Hui Liu <br>
