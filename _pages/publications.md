@@ -15,7 +15,7 @@ _2020 (in submission to IEEE/CAA Journal of Automation Sinica (2019IF:5.13) and 
 
 * Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements <br>
 Jianing Zhao, **Hanjiang Hu(co-first)**, Keyi Zhu, Xiao Yu and Hesheng Wang <br> 
-_in submission to IEEE RAL with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
+_in submission to IEEE RAL (2019IF:3.61) with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
 
 ## Conference Paper
 * SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments <br>
