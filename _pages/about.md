@@ -16,7 +16,7 @@ My research interests lie in **visual perception**, **long-term localization**, 
 
 Recent News
 ===
-* Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA 2021 ! [Here](https://hanjianghu.github.io/publications/) for full publications.
+* Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021 ! One co-first-author paper has been submitted to CVPR 2021 ! [Here](https://hanjianghu.github.io/publications/) for full publications.
 
 * Oct. 2020: [Paper](https://arxiv.org/pdf/2010.00573.pdf) and [code](https://github.com/HanjiangHu/DASGIL) of our work "DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization" are available !
 

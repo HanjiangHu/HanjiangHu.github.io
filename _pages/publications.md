@@ -22,6 +22,10 @@ _in submission to IEEE RAL (2019IF:3.61) with ICRA 2021 and under review_, [vide
 **Hanjiang Hu**, Baoquan Yang, Weiang Shi, Zhijian Qiao and Hesheng Wang <br> 
 _in submission to ICRA 2021 and under review_, [paper](https://arxiv.org/pdf/2011.04408.pdf), [project](https://github.com/SeasonDepth/SeasonDepth)
 
+* vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
+Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and Hesheng Wang <br> 
+_in submission to CVPR 2021 and under review_
+
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
 _in submission to ICRA 2021 and under review_, [video](https://youtu.be/cZ5Iwcn8TQ4)
