@@ -24,7 +24,7 @@ _in submission to ICRA 2021 and under review_, [paper](https://arxiv.org/pdf/201
 
 * vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
 Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and Hesheng Wang <br> 
-_in submission to CVPR 2021 and under review_
+_in submission to CVPR 2021 and under review_, [video](https://youtu.be/4-dixRUk4Z4)
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
