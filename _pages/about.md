@@ -31,7 +31,7 @@ Education
   * Major: Control
   * Minor: Robotics, Artificial Intelligence
 
-* B.S. Mechanical Engineering (Tsien Hsue-shen Honor Program), Shanghai Jiao Tong University, 2014 - 2018
+* B.S. Mechanical Engineering (Tsien Hsue-shen Honor Program, 钱学森班), Shanghai Jiao Tong University, 2014 - 2018
   * School of Mechanical Engineering
   * Major: Mechanical Engineering
   * Minor: Electrical Engineering
