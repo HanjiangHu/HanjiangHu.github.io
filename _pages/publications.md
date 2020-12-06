@@ -11,11 +11,11 @@ _2020 (in submission to IEEE Transactions on Image Processing (2019IF:9.34) and 
 
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
-_2020 (in submission to IEEE/CAA Journal of Automation Sinica (2019IF:5.13) and under review with a MINOR REVISION)_, [paper](https://arxiv.org/pdf/2009.07719.pdf), [code](https://github.com/HanjiangHu/DISAM)
+_accepted and will be published in IEEE/CAA Journal of Automation Sinica (2019IF:5.13), Dec. 2020_, [paper](https://arxiv.org/pdf/2009.07719.pdf), [code](https://github.com/HanjiangHu/DISAM)
 
 * Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements <br>
 Jianing Zhao, **Hanjiang Hu(co-first)**, Keyi Zhu, Xiao Yu and Hesheng Wang <br> 
-_in submission to IEEE RAL (2019IF:3.61) with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
+_in submission to IEEE RA-L (2019IF:3.61) with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
 
 ## Conference Paper
 * SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments <br>

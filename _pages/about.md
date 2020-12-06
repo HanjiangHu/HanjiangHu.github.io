@@ -16,11 +16,11 @@ My research interests lie in **visual perception**, **long-term localization**, 
 
 Recent News
 ===
+* Dec. 2020:  Our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" is accepted by IEEE/CAA Journal of Automation Sinica !  [Paper](https://arxiv.org/pdf/2009.07719.pdf) and [code](https://github.com/HanjiangHu/DISAM) available !
+
 * Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021 ! One co-first-author paper has been submitted to CVPR 2021 ! [Here](https://hanjianghu.github.io/publications/) for full publications.
 
 * Oct. 2020: [Paper](https://arxiv.org/pdf/2010.00573.pdf) and [code](https://github.com/HanjiangHu/DASGIL) of our work "DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization" are available !
-
-* Sept. 2020: [Paper](https://arxiv.org/pdf/2009.07719.pdf) and [code](https://github.com/HanjiangHu/DISAM) of our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" are available !
 
 * Aug. 2020: I am offered the Remote Visting Student Scholar to [MSC Lab](https://msc.berkeley.edu/) at UC Berkeley advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka) !
 
