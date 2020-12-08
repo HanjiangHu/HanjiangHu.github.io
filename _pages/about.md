@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in [Autonomous Robot Lab](http://robotics.sjtu.edu.cn/index.php?r=site/index) at Shanghai Jiao Tong University advised by [Prof. Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ).
+I am a master student in [Autonomous Robot Lab](http://robotics.sjtu.edu.cn/index.php?r=site/index) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ).
 
 My research interests lie in **visual perception**, **long-term localization**, and **domain adaptation** for autonomous vehicles and mobile robots. I am very open to collaborating with others and have tried other robotic fields, e.g. soft robot, multi-agent control system, etc.
 
@@ -16,13 +16,13 @@ My research interests lie in **visual perception**, **long-term localization**, 
 
 Recent News
 ===
-* Dec. 2020:  Our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" is accepted by IEEE/CAA Journal of Automation Sinica !  [Paper](https://arxiv.org/pdf/2009.07719.pdf) and [code](https://github.com/HanjiangHu/DISAM) available !
+* Dec. 2020: Our work "DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization" is accepted by IEEE Transactions on Image Processing(TIP)!  [Paper](https://arxiv.org/pdf/2010.00573.pdf) and [code](https://github.com/HanjiangHu/DASGIL) available
 
-* Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021 ! One co-first-author paper has been submitted to CVPR 2021 ! [Here](https://hanjianghu.github.io/publications/) for full publications.
+* Dec. 2020: Our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" is accepted by IEEE/CAA Journal of Automation Sinica!  [Paper](https://arxiv.org/pdf/2009.07719.pdf) and [code](https://github.com/HanjiangHu/DISAM) available
 
-* Oct. 2020: [Paper](https://arxiv.org/pdf/2010.00573.pdf) and [code](https://github.com/HanjiangHu/DASGIL) of our work "DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization" are available !
+* Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021! One co-first-author paper has been submitted to CVPR 2021! [Here](https://hanjianghu.github.io/publications/) for full publications.
 
-* Aug. 2020: I am offered the Remote Visting Student Scholar to [MSC Lab](https://msc.berkeley.edu/) at UC Berkeley advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka) !
+* Aug. 2020: I am offered the Remote Visting Student Scholar to [MSC Lab](https://msc.berkeley.edu/) at UC Berkeley advised by [Prof. Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka)!
 
 Education
 ===

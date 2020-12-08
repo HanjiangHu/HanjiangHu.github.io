@@ -7,7 +7,7 @@ author_profile: true
 ## Journal Paper
 * DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization <br>
 **Hanjiang Hu**, Zhijian Qiao, Ming Cheng, Zhe Liu and Hesheng Wang <br>
-_2020 (in submission to IEEE Transactions on Image Processing (2019IF:9.34) and under review with a MAJOR REVISION)_, [paper](https://arxiv.org/pdf/2010.00573.pdf), [code](https://github.com/HanjiangHu/DASGIL)
+_accepted and will be published in IEEE Transactions on Image Processing (2019IF:9.34), Dec. 2020_, [paper](https://arxiv.org/pdf/2010.00573.pdf), [code](https://github.com/HanjiangHu/DASGIL)
 
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
