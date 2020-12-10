@@ -24,19 +24,19 @@ _in submission to ICRA 2021 and under review_, [paper](https://arxiv.org/pdf/201
 
 * vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
 Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and Hesheng Wang <br> 
-_in submission to CVPR 2021 and under review_, [video](https://youtu.be/4-dixRUk4Z4)
+_in submission to CVPR 2021 and under review_, [paper](https://arxiv.org/pdf/2012.05018.pdf),[video](https://youtu.be/4-dixRUk4Z4)
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
 _in submission to ICRA 2021 and under review_, [video](https://youtu.be/cZ5Iwcn8TQ4)
 
-* A Synchronization Approach for Achieving Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing <br>
-Zhe Liu, Huanshu Wei, **Hanjiang Hu**, Chuanzhe Suo, Hesheng Wang, Haoang Li and Yun-Hui Liu <br>
-_2020 IEEE International Conference on Robotics and Automation (ICRA)_, [paper](https://ieeexplore.ieee.org/abstract/document/9196991/)
-
 * Retrieval-based Localization Based on Domain-invariant Feature Learning under Changing Environments <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
 _2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, [paper](https://ieeexplore.ieee.org/document/8968047), [code](https://github.com/HanjiangHu/DIFL-FCL)
+
+* A Synchronization Approach for Achieving Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing <br>
+Zhe Liu, Huanshu Wei, **Hanjiang Hu**, Chuanzhe Suo, Hesheng Wang, Haoang Li and Yun-Hui Liu <br>
+_2020 IEEE International Conference on Robotics and Automation (ICRA)_, [paper](https://ieeexplore.ieee.org/abstract/document/9196991/)
 
 # Patents
 
