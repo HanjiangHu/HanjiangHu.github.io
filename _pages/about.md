@@ -18,7 +18,7 @@ Recent News
 ===
 * Dec. 2020: Our work "DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization" is accepted by IEEE Transactions on Image Processing(TIP)!  [Paper](https://ieeexplore.ieee.org/document/9296559) and [code](https://github.com/HanjiangHu/DASGIL) available
 
-* Dec. 2020: Our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" is accepted by IEEE/CAA Journal of Automation Sinica!  [Paper](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf) and [code](https://github.com/HanjiangHu/DISAM) available
+* Dec. 2020: Our work "Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization" is accepted by IEEE/CAA Journal of Automatica Sinica!  [Paper](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf) and [code](https://github.com/HanjiangHu/DISAM) available
 
 * Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021! One co-first-author paper has been submitted to CVPR 2021! [Here](https://hanjianghu.github.io/publications/) for full publications.
 
