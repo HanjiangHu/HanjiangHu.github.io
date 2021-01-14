@@ -22,7 +22,7 @@ Recent News
 
 * Nov. 2020: One first-author and another two co-first-author papers have been submitted to ICRA/RAL 2021! One co-first-author paper has been submitted to CVPR 2021! [Here](https://hanjianghu.github.io/publications/) for full publications.
 
-* Aug. 2020: I am offered the Remote Visting Student Scholar to [MSC Lab](https://msc.berkeley.edu/) at UC Berkeley advised by Prof. [Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka)!
+<!-- * Aug. 2020: I am offered the Remote Visting Student Scholar to [MSC Lab](https://msc.berkeley.edu/) at UC Berkeley advised by Prof. [Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka)! -->
 
 Education
 ===
