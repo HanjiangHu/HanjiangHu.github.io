@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Paper
-* DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization <br>
-**Hanjiang Hu**, Zhijian Qiao, Ming Cheng, Zhe Liu and Hesheng Wang <br>
-_published in IEEE Transactions on Image Processing (2019IF:9.34), Dec. 2020_, [paper](https://ieeexplore.ieee.org/document/9296559), [code](https://github.com/HanjiangHu/DASGIL)
-
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
-_accepted and will be published in IEEE/CAA Journal of Automatica Sinica (2019IF:5.13), Dec. 2020_, [paper](https://www.xml-journal.cn/pdfonline/pdf/contentview/cd9ce590ac6ada053bed6ff92763c14d7b0b939c0e87e3a716a830461895b888/JAS-2020-1028.pdf), [code](https://github.com/HanjiangHu/DISAM)
+_published in IEEE/CAA Journal of Automatica Sinica, Feb. 2021_, [paper](https://ieeexplore.ieee.org/document/9358457), [code](https://github.com/HanjiangHu/DISAM)
+
+* DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization <br>
+**Hanjiang Hu**, Zhijian Qiao, Ming Cheng, Zhe Liu and Hesheng Wang <br>
+_published in IEEE Transactions on Image Processing, Dec. 2020_, [paper](https://ieeexplore.ieee.org/document/9296559), [code](https://github.com/HanjiangHu/DASGIL)
 
 * Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements <br>
 Jianing Zhao, **Hanjiang Hu(co-first)**, Keyi Zhu, Xiao Yu and Hesheng Wang <br> 
-_in submission to IEEE RA-L (2019IF:3.61) with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
+_in submission to IEEE RA-L with ICRA 2021 and under review_, [video](https://youtu.be/iJuPWT8fPFU)
 
 ## Conference Paper
 * SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments <br>
