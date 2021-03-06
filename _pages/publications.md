@@ -31,9 +31,9 @@ _2020 IEEE International Conference on Robotics and Automation (ICRA)_, [paper](
 **Hanjiang Hu**, Baoquan Yang, Weiang Shi, Zhijian Qiao and Hesheng Wang <br> 
 _arXiv preprint_, [arXiv](https://arxiv.org/pdf/2011.04408.pdf), [project](https://github.com/SeasonDepth/SeasonDepth)
 
-* vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
+<!-- * vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
 Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and Hesheng Wang <br> 
-_arXiv preprint_, [arXiv](https://arxiv.org/pdf/2012.05018.pdf),[video](https://youtu.be/4-dixRUk4Z4)
+_arXiv preprint_, [arXiv](https://arxiv.org/pdf/2012.05018.pdf),[video](https://youtu.be/4-dixRUk4Z4) -->
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
