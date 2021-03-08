@@ -37,7 +37,7 @@ _arXiv preprint_, [arXiv](https://arxiv.org/pdf/2012.05018.pdf),[video](https://
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
 Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
-_arXiv preprint_, [video](https://youtu.be/cZ5Iwcn8TQ4)
+_arXiv preprint_, [code](https://github.com/HanjiangHu/ANC-LSTM-fault-detection), [video](https://youtu.be/cZ5Iwcn8TQ4)
 
 
 # Patents

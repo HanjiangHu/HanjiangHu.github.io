@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in [IRMV Lab](https://irmv-lab.github.io/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ).
+I am a master student in [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng).
 
 My current research focuses on **visual perception**, **long-term localization**, and **domain adaptation** for autonomous vehicles and mobile robots. I am very open to collaborating with others and have tried other robotic fields, e.g., soft robot, multi-agent control system, etc.
 
