@@ -36,8 +36,8 @@ Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and 
 _arXiv preprint_, [arXiv](https://arxiv.org/pdf/2012.05018.pdf),[video](https://youtu.be/4-dixRUk4Z4) -->
 
 * Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
-Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang, Fan Xu, Weidong Chen and Yun-Hui Liu <br> 
-_arXiv preprint_, [code](https://github.com/HanjiangHu/ANC-LSTM-fault-detection), [video](https://youtu.be/cZ5Iwcn8TQ4)
+Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang and Weidong Chen<br> 
+_arXiv preprint_, [code](https://github.com/HanjiangHu/ANC-LSTM-fault-detection), [video](https://youtu.be/w3zSbYWDjms)
 
 
 # Patents

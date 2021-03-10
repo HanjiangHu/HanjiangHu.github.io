@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current research interests consist of visual perception, long-term localization, and domain adaptation.
+My current research interests consist of visual perception, long-term localization, and domain adaptation applications.
 
 My research goal is to develop robust algorithms that can be used on mobile robots or autonomous vehicles in a long-term perspective. I focus on reliable perception and localization algorithms under changing environments, e.g. illumination, seasonal and weather changes. The involved tasks are place recognition, depth prediction, semantic segmentation, etc. 
 
