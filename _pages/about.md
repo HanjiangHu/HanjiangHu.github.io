@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master student in [IRMV Lab](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](http://irmv.sjtu.edu.cn/wanghesheng). I am an incoming PhD student at [Safe AI Lab@CMU](https://safeai-lab.github.io/) this year advised by Prof. [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I also worked at [MSC Lab@Berkeley](https://msc.berkeley.edu/) as a Visiting Student Scholar (remotely due to the COVID-19 pandemic) in 2020 advised by Prof. [Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka).
 
-My main research focuses on **visual perception**, **long-term localization**, and **machine learning** for autonomous vehicles and mobile robots. Recently, I am working on algorithms related to generative model and lifelong learning for Safe Driving and Healthcare. I am very open to collaborating with others and have tried other robotic fields, e.g., soft robot, multi-agent control system, etc.
+My main research focuses on **visual perception**, **long-term localization**, and **machine learning** for autonomous vehicles and mobile robots. Recently, I am working on algorithms related to generative model and reinforcement learning for Safe Driving and Healthcare. I am very open to collaborating with others and have tried other robotic fields, e.g., soft robot, multi-agent control system, etc. I serve as a reviewer for top robotics conferences, ICRA and IROS.
 
 
 
