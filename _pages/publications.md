@@ -7,7 +7,7 @@ author_profile: true
 ## Journal Paper
 * Leader-Following Formation Control of Networked Mobile Robots With Unknown Leader’s Orientation <br>
 Jianing Zhao, Keyi Zhu,**Hanjiang Hu**, Xiao Yu and Hesheng Wang <br>
-_submitted to IEEE Transactions on Network Science and Engineering (TNSE), Apr. 2021_, [video](https://youtu.be/OdjxbYF9CiE)
+_submitted to IEEE Transactions on Network Science and Engineering (TNSE), Apr. 2021_, [video](https://www.youtube.com/watch?v=F8aOkqriAdM)
 
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
