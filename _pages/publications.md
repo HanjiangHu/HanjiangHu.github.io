@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Paper
-* Distributed Leader-Following Formation Tracking Control of Mobile Robots With Unknown Leader’s Orientation <br>
+* Leader-Following Formation Control of Networked Mobile Robots With Unknown Leader’s Orientation <br>
 Jianing Zhao, Keyi Zhu,**Hanjiang Hu**, Xiao Yu and Hesheng Wang <br>
-_submitted to IEEE Transactions on Control Systems Technology (TCST), Mar. 2021_, [video](https://youtu.be/YLDOm8JFUTI)
+_submitted to IEEE Transactions on Network Science and Engineering (TNSE), Apr. 2021_, [video](https://youtu.be/OdjxbYF9CiE)
 
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
 **Hanjiang Hu**, Hesheng Wang, Zhe Liu and Weidong Chen <br>
