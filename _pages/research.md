@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-My current research interests consist of visual perception, long-term localization, and domain adaptation applications.
+My current research is about visual perception, long-term localization, and robust machine learning algorithms.
 
-My research goal is to develop robust algorithms that can be used on mobile robots or autonomous vehicles in a long-term perspective. I focus on reliable perception and localization algorithms under changing environments, e.g. illumination, seasonal and weather changes. The involved tasks are place recognition, depth prediction, semantic segmentation, etc. 
+My research goal is to develop robust algorithms in a long-term perspective for complex multi-agent system. My past works focus on reliable perception and localization algorithms under changing environments, e.g. illumination, seasonal and weather changes. The involved tasks are place recognition, depth prediction, semantic segmentation, etc. Recently, I am working on multi-agent decision making algorithm for collaborative robust perception. 
 
 <!-- My research consists of visual perception, long-term localization, and multi-agent control.
 
@@ -16,14 +16,14 @@ My research goal is to develop intelligent and robust algorithms that can be use
 
 ## Visual Perception and Localization
 
+* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/pdf/2011.04408.pdf)] [[project](https://seasondepth.github.io/)]  <br >
+<img src='../images/img_samples.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
+<!-- <img src='../images/img2.png' align="center" width=666 alt="Text alternative when image is not available"> -->
+A new cross-season scaleless monocular depth prediction dataset is derived from CMU Visual Localization dataset through structure from motion. And then the several metrics are formulated to measure the performance on this dataset. Besides, we have benchmarked almost all the open-source state-of-the-art algorithms on KITTI dataset using the new dataset to find robust methods against the challenging environments. The dataset and benchmark is available on [SeasonDepth](https://seasondepth.github.io/).
+
 * **Generative Vehicle Segmentation for Aerial-view Images** <br>
 <img src='../images/UCB_video_speed_GIF.gif' style="float:middle" width=500 alt="Text alternative when image is not available"> <br> 
 To improve the performance of vehicle detection and segmentation in aerial-view images, we propose a novel algorithm based on the generative model. Inspired by multi-modal image translation, the vehicle patches could be regarded as the combination of vehicle content and multi-modal surrounding style distribution. Consequently, the process of vehicle segmentation is a content extraction and multi-to-single-modal image translation, which is suitable for domain adaptation. Based on this work, a GUI tool has been developed to help to obtain the ground truth for the [INTERPRET NeurIPS 2020 Challenge](http://challenge.interaction-dataset.com/prediction-challenge/intro) by MSC Lab at UC Berkeley.
-
-* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/pdf/2011.04408.pdf)] [[video](https://youtu.be/I2d4_wE4axs)]  <br >
-<img src='../images/img_samples.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
-<!-- <img src='../images/img2.png' align="center" width=666 alt="Text alternative when image is not available"> -->
-A new cross-season scaleless monocular depth prediction dataset is derived from CMU Visual Localization dataset through structure from motion. And then the several metrics are formulated to measure the performance on this dataset. Besides, we have benchmarked almost all the open-source state-of-the-art algorithms on KITTI dataset using the new dataset to find robust methods against the challenging environments.The dataset and benchmark is on [SeasonDepth](https://github.com/SeasonDepth/SeasonDepth).
 
 * **Domain Adaptation for Semantic and Geometric-aware Localization** <br> [[paper](https://ieeexplore.ieee.org/document/9296559)] [[code](https://github.com/HanjiangHu/DASGIL)] <br >
 <img src='../images/img2.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
@@ -37,9 +37,9 @@ baselines under the challenging environments with illumination variance, vegetat
 and night-time images on CMU-Seasons and RobotCar-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).
 
 
-<!-- ## Multi-robot control
+<!-- ## Multi-agent System
 
-* **Bearing-Only Adaptive Rendezvous Control of Networked Mobile Robots** <br> [[available soon]()] <br>
+* **Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements** <br> [[available soon]()] <br>
 
 
 * **Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing** <br> [[paper](https://ieeexplore.ieee.org/abstract/document/9196991/)]<br>
@@ -47,10 +47,10 @@ In this papeI help to conduct ther, we resolve the CACC problem from the viewpoi
 synchronization mechanism, a distributed control algorithm is presented to achieve the single-lane CACC in the presence of vehicle-to-vehicle (V2V) communications, which enables autonomous vehicles to track the desired platoon trajectory while synchronizing their longitudinal velocities to keeping the expected inter-vehicle distance. Secondly, by designing the enter-time scheduling mechanism (temporal synchronization), a high-level intersection control strategy is proposed to command vehicles to form a virtual platoon to pass through the intersection without stopping. Thirdly, a Lyapunov-based timedomain stability analysis approach is presented. Compared with the traditional string stability based approach, the proposed approach guarantees the global asymptotical convergence of the proposed CACC system. Experiments in the small-scale simulated system demonstrate the effectiveness of the proposed
 approach. -->
 
-## Selected Undergraduate Project
+<!-- ## Selected Undergraduate Project
 * **Vision-based Intelligent Robotic Grasping System** <br> [[code](https://github.com/HanjiangHu/RGBD-eye-in-hand-robotics-grasping)] [[video](https://youtu.be/8ylxOqa1HiY)] <br>
 <img src='../images/toy.gif' style="float:middle" width=500 alt="Text alternative when image is not available"> <br>
-The project aims to develop an intelligent and autonomous grasping system based on ROS for UR-5 Robot using an eye-in-hand RGBD camera. From the voice input (Mandarin), YOLO-based object detection and SegmenterLight-based segmentation are implemented to find the target point cloud. The 6-DoF pose of the object with respect to the camera is then estimated based on template matching through FPFH-based RANSAC and ICP algorithm. The project was awarded Third Prize of of ORBBEC 3-D Sensor Application Design Competition in 2018 International Conference on Optical and Photonic Engineering ([ICOPEN 2018](http://jsem.jp/jsem-bbs/img/375.pdf)).
+The project aims to develop an intelligent and autonomous grasping system based on ROS for UR-5 Robot using an eye-in-hand RGBD camera. From the voice input (Mandarin), YOLO-based object detection and SegmenterLight-based segmentation are implemented to find the target point cloud. The 6-DoF pose of the object with respect to the camera is then estimated based on template matching through FPFH-based RANSAC and ICP algorithm. The project was awarded Third Prize of of ORBBEC 3-D Sensor Application Design Competition in 2018 International Conference on Optical and Photonic Engineering ([ICOPEN 2018](http://jsem.jp/jsem-bbs/img/375.pdf)). -->
 
 <!-- * **Automobile Transmission Solenoid Valve Detection Device** <br> [[patent](https://worldwide.espacenet.com/patent/search/family/056043507/publication/CN105628368A?q=CN105628368A)] <br> -->
 
