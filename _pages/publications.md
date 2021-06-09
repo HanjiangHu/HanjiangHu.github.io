@@ -8,7 +8,7 @@ author_profile: true
 ## Submission and Under Review
 * SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments <br>
 **Hanjiang Hu**, Baoquan Yang, Zhijian Qiao, Ding Zhao and Hesheng Wang <br> 
-_submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021_, [arXiv](https://arxiv.org/pdf/2011.04408.pdf), [project](https://seasondepth.github.io/), [benchmark toolkit](https://github.com/SeasonDepth/SeasonDepth)
+_submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021_, [arXiv](https://arxiv.org/pdf/2011.04408), [project](https://seasondepth.github.io/), [benchmark toolkit](https://github.com/SeasonDepth/SeasonDepth)
 
 * Leader-Following Formation Control of Networked Mobile Robots With Unknown Leader’s Orientation <br>
 Jianing Zhao, Keyi Zhu,**Hanjiang Hu**, Xiao Yu and Hesheng Wang <br>
