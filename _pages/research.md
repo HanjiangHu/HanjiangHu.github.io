@@ -16,7 +16,7 @@ My research goal is to develop intelligent and robust algorithms that can be use
 
 ## Visual Perception and Localization
 
-* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/pdf/2011.04408)] [[project](https://seasondepth.github.io/)]  <br >
+* **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/abs/2011.04408)] [[project](https://seasondepth.github.io/)]  <br >
 <img src='../images/img_samples.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
 <!-- <img src='../images/img2.png' align="center" width=666 alt="Text alternative when image is not available"> -->
 A new cross-season scaleless monocular depth prediction dataset is derived from CMU Visual Localization dataset through structure from motion. And then the several metrics are formulated to measure the performance on this dataset. Besides, we have benchmarked almost all the open-source state-of-the-art algorithms on KITTI dataset using the new dataset to find robust methods against the challenging environments. The dataset and benchmark is available on [SeasonDepth](https://seasondepth.github.io/).

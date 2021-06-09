@@ -16,7 +16,7 @@ My main research focuses on **visual perception**, **long-term localization**, a
 
 News and Updates
 ===
-* Jun. 2021: New submission to NeurIPS 2021 Datasets and Benchmarks Track! See [arXiv](https://arxiv.org/pdf/2011.04408) and [project](https://seasondepth.github.io/) and welcome any comments on it!
+* Jun. 2021: New submission to NeurIPS 2021 Datasets and Benchmarks Track! See [arXiv](https://arxiv.org/abs/2011.04408) and [project](https://seasondepth.github.io/) and welcome any comments on it!
 
 * Mar. 2021: New paper accepted to ICRA 2021! Demo [Here](https://youtu.be/iJuPWT8fPFU).
 
