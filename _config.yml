@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "hanjiang.hu.3"
+  facebook         : #"hanjiang.hu.3"
   foursquare       :
   github           : "HanjiangHu"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "huhanjiang"
+  twitter          : #"huhanjiang"
   vine             :
   weibo            :
   xing             :
