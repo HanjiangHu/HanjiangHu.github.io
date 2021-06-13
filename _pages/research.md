@@ -11,7 +11,7 @@ My research goal is to develop robust algorithms in a long-term perspective for 
 
 <!-- My research consists of visual perception, long-term localization, and multi-agent control.
 
-My research goal is to develop intelligent and robust algorithms that can be used on mobile robots for the sake of challenges from both time and space. For outdoor mobile vehicles, I seek for reliable perception and localization algorithms under changing environments in a long-term perspective. From the spatial view, I also engage in the precise control of multiple agents for a stable autonomous system.    -->
+My research goal is to develop intelligent and robust algorithms for the sake of long-term, large-scale and multi-agent challenges. For outdoor autonomous vehicles, I seek for reliable perception and localization algorithms under changing environments in a long-term perspective. From the spatial view, I also engage in the precise control of multiple agents for a stable autonomous system.    -->
 
 
 ## Visual Perception and Localization
