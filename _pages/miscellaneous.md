@@ -7,8 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Hobbies and other interesting facts about myself:
-* I am a strategic board game lover and a classical-music saxophone player.
-* I love watching Marvel TV shows and I ship two CPs, FitzSimmons and WandaVision.
-* I am the main developer and maintainer of the lab website of [IRMV Lab@SJTU](http://irmv.sjtu.edu.cn/). Eager to hear more suggestions on it :)
+## Hobbies and other interesting things:
+* A strategic board game lover and a classical-music saxophone player.
+* Love watching Marvel TV shows and I ship two CPs, FitzSimmons and WandaVision.
+* Website developer and maintainer, [IRMV Lab@SJTU](http://irmv.sjtu.edu.cn/) and [SeasonDepth](https://seasondepth.github.io/). Eager to hear more suggestions :)
+* Always awake at midnight recently because EURO 2020 is REALLY amazing!
                                                                                                   

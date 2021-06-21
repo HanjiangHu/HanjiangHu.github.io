@@ -14,7 +14,7 @@ My research goal is to develop robust algorithms in a long-term perspective for 
 My research goal is to develop intelligent and robust algorithms for the sake of long-term, large-scale and multi-agent challenges. For outdoor autonomous vehicles, I seek for reliable perception and localization algorithms under changing environments in a long-term perspective. From the spatial view, I also engage in the precise control of multiple agents for a stable autonomous system.    -->
 
 
-## Visual Perception and Localization
+## Robust Visual Perception and Localization
 
 * **Cross-Season Monocular Depth Prediction under Changing Environments** <br> [[paper](https://arxiv.org/abs/2011.04408)] [[project](https://seasondepth.github.io/)]  <br >
 <img src='../images/img_samples.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
@@ -25,7 +25,7 @@ A new cross-season scaleless monocular depth prediction dataset is derived from 
 <img src='../images/UCB_video_speed_GIF.gif' style="float:middle" width=500 alt="Text alternative when image is not available"> <br> 
 To improve the performance of vehicle detection and segmentation in aerial-view images, we propose a novel algorithm based on the generative model. Inspired by multi-modal image translation, the vehicle patches could be regarded as the combination of vehicle content and multi-modal surrounding style distribution. Consequently, the process of vehicle segmentation is a content extraction and multi-to-single-modal image translation, which is suitable for domain adaptation. Based on this work, a GUI tool has been developed to help to obtain the ground truth for the [INTERPRET NeurIPS 2020 Challenge](http://challenge.interaction-dataset.com/prediction-challenge/intro) by MSC Lab at UC Berkeley.
 
-* **Domain Adaptation for Semantic and Geometric-aware Localization** <br> [[paper](https://ieeexplore.ieee.org/document/9296559)] [[code](https://github.com/HanjiangHu/DASGIL)] <br >
+* **Domain Adaptation for Semantic and Geometric-aware Localization** <br> [[paper](https://ieeexplore.ieee.org/document/9296559)] [[code](https://github.com/HanjiangHu/DASGIL)] [[presentation](https://youtu.be/hzikVPXHJX4)] <br >
 <img src='../images/img2.png' style="float:center" width=500 alt="Text alternative when image is not available"> <br>
 A novel multi-task architecture is proposed to fuse the geometric and semantic information into the multi-scale latent embedding representation for long-term visual localization. Also, domain adaptation is adopted from synthetic to real-world datasets to use the high-quality virtual ground truths without any human effort. The proposed method outperforms state-of-the-art baselines for retrieval-based localization under the challenging environment on the Extended CMU-Seasons dataset from the [visual localization benchmark](https://www.visuallocalization.net/benchmark/).
 

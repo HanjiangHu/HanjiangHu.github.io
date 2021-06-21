@@ -10,7 +10,7 @@ author_profile: true
 **Hanjiang Hu**, Baoquan Yang, Zhijian Qiao, Ding Zhao and Hesheng Wang <br> 
 _submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021_, [arXiv](https://arxiv.org/abs/2011.04408), [project](https://seasondepth.github.io/), [benchmark toolkit](https://github.com/SeasonDepth/SeasonDepth)
 
-* Leader-Following Formation Control of Networked Mobile Robots With Unknown Leader’s Orientation <br>
+* Leader-Following Formation Control of Networked Mobile Robots with Unknown Leader’s Orientation <br>
 Jianing Zhao, Keyi Zhu,**Hanjiang Hu**, Xiao Yu and Hesheng Wang <br>
 _submitted to IEEE Transactions on Network Science and Engineering (TNSE), Apr. 2021_, [video](https://youtu.be/6tEva7aqev8)
 
@@ -44,6 +44,6 @@ _published in IEEE/CAA Journal of Automatica Sinica, Feb. 2021_, [paper](https:/
 
 * DASGIL: Domain Adaptation for Semantic and Geometric-aware Image-based Localization <br>
 **Hanjiang Hu**, Zhijian Qiao, Ming Cheng, Zhe Liu and Hesheng Wang <br>
-_published in IEEE Transactions on Image Processing (TIP), Dec. 2020_, [paper](https://ieeexplore.ieee.org/document/9296559), [code](https://github.com/HanjiangHu/DASGIL)
+_published in IEEE Transactions on Image Processing (TIP), Dec. 2020_, [paper](https://ieeexplore.ieee.org/document/9296559), [code](https://github.com/HanjiangHu/DASGIL), [presentation](https://youtu.be/hzikVPXHJX4)
 
 
