@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University advised by Prof. [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). I am an incoming PhD student at [Safe AI Lab@CMU](https://safeai-lab.github.io/) this fall advised by Prof. [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). I also worked at [MSC Lab@Berkeley](https://msc.berkeley.edu/) as a Visiting Student Researcher (remotely due to the COVID-19 pandemic) in 2020 advised by Prof. [Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka).
+I am an upcoming PhD student at [Safe AI Lab@CMU](https://safeai-lab.github.io/) advised by Prof. [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html). Before that, I got my bachelor and master degree from Shanghai Jiao Tong University in 2018 and 2021. I worked at [IRMV Lab@SJTU](https://irmv.sjtu.edu.cn/) advised by Prof. [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [MSC Lab@UC Berkeley](https://msc.berkeley.edu/) as a Visiting Student Researcher (remotely due to the COVID-19 pandemic) in 2020 advised by Prof. [Masayoshi Tomizuka](http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka).
 
-My main research focuses on **visual perception**, **long-term localization**, and **robust machine learning** for autonomous vehicles. Recently, I am working on algorithms related to multi-agent decision making for active perception. I am very open to collaborating with others and have tried other fields, e.g., soft robot, multi-agent control system, etc. I serve as a reviewer for top robotics conferences, ICRA and IROS.
+My main research focuses on **visual perception**, **long-term localization**, and **robust machine learning** for autonomous vehicles. Recently, I am working on algorithms related to multi-agent decision making for active perception. I am very open to collaborating with others and have tried other fields, e.g., soft robot, multi-agent control system, etc. I serve as a reviewer for conferences of ICRA and IROS.
 
 
 
@@ -32,7 +32,7 @@ News and Updates
 
 Education
 ===
-* M.S. Control Science and Engineering, Shanghai Jiao Tong University, 2018 - 2021 (Expected)
+* M.S. Control Science and Engineering, Shanghai Jiao Tong University, 2018 - 2021
 
 * B.S. Mechanical Engineering, Shanghai Jiao Tong University, 2014 - 2018
 <!--  (Tsien Hsue-shen Honor Program) -->

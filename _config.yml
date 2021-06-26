@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanjiang's Website"
 title_separator          : "-"
 name                     : &name "Hanjiang Hu"
-description              : &description "Master student @ Shanghai Jiao Tong University"
+description              : &description "PhD student @ Carnegie Mellon University"
 url                      : https://hanjianghu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HanjiangHu/HanjiangHu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hanjiang Hu 胡寒江"
   avatar           : "hhj.jpg"
-  bio              : "Master student @ Shanghai Jiao Tong University"
+  bio              : "upcoming PhD student @ Carnegie Mellon University"
   location         : "Shanghai, China"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
