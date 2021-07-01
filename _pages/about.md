@@ -16,6 +16,8 @@ My main research focuses on **visual perception**, **long-term localization**, a
 
 News and Updates
 ===
+* Jul. 2021: Two new papers accepted to IROS 2021! See full [publications](https://hanjianghu.github.io/publications/) for more details.
+
 * Jun. 2021: New submission to NeurIPS 2021 Datasets and Benchmarks Track! See [arXiv](https://arxiv.org/abs/2011.04408) and [project](https://seasondepth.github.io/) and welcome any comments on it!
 
 * Mar. 2021: New paper accepted to ICRA 2021! Demo [Here](https://youtu.be/iJuPWT8fPFU).

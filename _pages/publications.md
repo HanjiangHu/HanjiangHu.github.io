@@ -14,12 +14,15 @@ _submitted to NeurIPS 2021 Track for Datasets and Benchmarks, Jun. 2021_, [arXiv
 Jianing Zhao, Keyi Zhu,**Hanjiang Hu**, Xiao Yu and Hesheng Wang <br>
 _submitted to IEEE Transactions on Network Science and Engineering (TNSE), Apr. 2021_, [video](https://youtu.be/6tEva7aqev8)
 
-* Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
-Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang and Weidong Chen<br> 
-_submitted to 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, [code](https://github.com/HanjiangHu/ANC-LSTM-fault-detection), [video](https://youtu.be/w3zSbYWDjms)
-
 
 ## Conference Paper
+* Soft Manipulator Fault Detection and Identification Using ANC-based LSTM <br>
+Haoyuan Gu, **Hanjiang Hu(co-first)**, Hesheng Wang and Weidong Chen<br> 
+_2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, [code](https://github.com/HanjiangHu/ANC-LSTM-fault-detection), [video](https://youtu.be/w3zSbYWDjms)
+
+* Registration-aided 3D Point Cloud Learning for Large-Scale Place Recognition <br>
+Zhijian Qiao, **Hanjiang Hu(co-first)**, Weiang Shi and Hesheng Wang <br> 
+_2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_
 
 * Distributed Rendezvous Control of Networked Uncertain Robotic Systems with Bearing Measurements <br>
 Jianing Zhao, **Hanjiang Hu(co-first)**, Keyi Zhu, Xiao Yu and Hesheng Wang <br> 
@@ -32,10 +35,6 @@ _2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * A Synchronization Approach for Achieving Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing <br>
 Zhe Liu, Huanshu Wei, **Hanjiang Hu**, Chuanzhe Suo, Hesheng Wang, Haoang Li and Yun-Hui Liu <br>
 _2020 IEEE International Conference on Robotics and Automation (ICRA)_, [paper](https://ieeexplore.ieee.org/abstract/document/9196991/)
-
-<!-- * vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition <br>
-Zhijian Qiao, **Hanjiang Hu(co-first)**, Siyuan Chen, Zhe Liu, Zhuowen Shen and Hesheng Wang <br> 
-_arXiv preprint_, [arXiv](https://arxiv.org/pdf/2012.05018.pdf),[video](https://youtu.be/4-dixRUk4Z4) -->
 
 ## Journal Paper
 * Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization <br>
