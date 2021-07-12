@@ -11,5 +11,4 @@ redirect_from:
 * A strategic board game lover and a classical-music saxophone player.
 * Love watching Marvel TV shows and I ship two CPs, FitzSimmons and WandaVision.
 * Website developer and maintainer, [IRMV Lab@SJTU](http://irmv.sjtu.edu.cn/) and [SeasonDepth](https://seasondepth.github.io/). Eager to hear more suggestions :)
-* Always awake at midnight recently because EURO 2020 is REALLY amazing!
                                                                                                   
